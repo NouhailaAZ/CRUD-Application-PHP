@@ -1,0 +1,11 @@
+.box h2{
+    float: left;
+}
+
+.box button{
+    float: right;
+}
+
+h6{
+    text-align: center;
+}
